@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Demo how to create a hithub repository and properly set it up
+Demo how to create a Github repository and properly set it up. 
